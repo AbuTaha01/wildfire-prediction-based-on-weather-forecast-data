@@ -1,1 +1,1 @@
-text mining tool and information retrieval system using Natural Language Processing (NLP) to search and extract answers of Covid-19 inquiries.
+In my master's degree project, I executed a regression machine learning model to predict areas of wildfire in square kilometers based on weather forecasts, vegetation data, and land class data.
